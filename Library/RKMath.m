@@ -5,7 +5,7 @@
 //  Copyright (c) 2014 Richard Kirk. All rights reserved.
 //
 
-#import "LNMath.h"
+#import "RKMath.h"
 
 double normalize(double value, double startValue, double endValue)
 {
